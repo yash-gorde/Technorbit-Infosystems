@@ -1,7 +1,7 @@
 # Technorbit-Infosystems
 "📚 Tracking my coding journey through Technorbit Infosystems lectures. Explore the code solutions from each lecture, keeping a record of what we learned and accomplished each day. 🚀 #CodingClasses #LearningJourney"
 <p align="center">
-  <img src="https://github.com/YashGorde009/Technorbit-Infosystems/blob/main/Images/Technorbit.jpg" width="300px" alt="Technorbit-Infosystems Logo">
+  <img src="https://github.com/yash-gorde/Technorbit-Infosystems/blob/master/Images/Technorbit.jpg" width="300px" alt="Technorbit-Infosystems Logo">
 </p>
 
 # Technorbit Infosystems Learning Repository 📚
